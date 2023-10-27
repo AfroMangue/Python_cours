@@ -1,0 +1,16 @@
+apple
+banana
+carrot
+dog
+elephant
+flower
+giraffe
+house
+igloo
+jacket
+kangaroo
+lemon
+mango
+nest
+ocean
+penguin
